@@ -4,7 +4,7 @@
 name: pipeline-demo-choikijin-techcross-aws-copilot-sample-service
 
 # The version of the schema used in this template
-version: 1
+version: 2
 
 # This section defines the source artifacts.
 source:
